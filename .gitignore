@@ -2,3 +2,7 @@ __pycache__/
 *.py[cod]
 *.log
 .DS_Store
+build_nuitka/
+*.build/
+*.dist/
+*.onefile-build/

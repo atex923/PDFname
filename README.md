@@ -9,6 +9,12 @@ PDF 更名、預覽、OCR 框選辨識與檔案搬移工具。
 
 舊版程式已移到 [`歷史區`](歷史區/)，修改紀錄請看 [`HISTORY.md`](HISTORY.md)。
 
+## Nuitka 打包
+
+- Nuitka 優化版：[`PDF更名搬移平車_V3.2.0_Nuitka優化版.py`](PDF更名搬移平車_V3.2.0_Nuitka優化版.py)
+- macOS 打包腳本：[`build_nuitka_macos.sh`](build_nuitka_macos.sh)
+- 打包指南：[`Nuitka打包指南.md`](Nuitka打包指南.md)
+
 ## 功能摘要
 
 - PDF 預覽、上下頁、滑鼠縮放、拖曳瀏覽
