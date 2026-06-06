@@ -7,6 +7,7 @@
 - 新增 Nuitka 優化打包版，OCR 載入順序改為 RapidOCR 優先，降低打包體積與大型相依風險。
 - 新增 macOS Nuitka 打包腳本與打包指南。
 - 新增可直接以 pythonw 執行的 `.pyw` 版本。
+- 新增正常版 `.py` 入口檔，方便直接用 Python 執行。
 
 ## V3.1.5
 
